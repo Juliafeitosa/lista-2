@@ -11,8 +11,6 @@ public class ex1 {
         int[] vetor = new int[5];
         double soma = 0;
 
-
-        // Lendo os números e preenchendo o vetor
         System.out.println("Digite 5 números:");
         for (int i = 0; i < 5; i++) {
             System.out.print("Número " + (i + 1) + ": ");
