@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 
-public class ex13 {
-    public static void main(String[] args) {
+public class Ex13 {
+    public static void fibonacci (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
