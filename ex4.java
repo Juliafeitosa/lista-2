@@ -5,17 +5,12 @@
 import java.util.Scanner;
 
 
-public class ex4 {
-    public static void main(String[] args) {
+public class Ex4 {
+    public static void vetores (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
-
-
         int tamanho = 5;
-
-
-
 
         int[] vetor = new int[tamanho];
 
