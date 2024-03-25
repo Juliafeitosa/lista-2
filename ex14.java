@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class Ex14 {
-    public static void maiorElemento(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int tamanho = 5;
 
