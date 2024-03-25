@@ -6,8 +6,8 @@
 import java.util.Scanner;
 
 
-public class ex15 {
-    public static void main(String[] args) {
+public class Ex15 {
+    public static void armazenar(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
