@@ -5,16 +5,12 @@
 import java.util.Scanner;
 
 
-public class ex6 {
-    public static void main(String[] args) {
+public class Ex6 {
+    public static void mediaPonderada(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
-
-
         int tamanho = 5;
-
-
 
 
         double[] notas = new double[tamanho];
