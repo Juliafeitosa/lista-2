@@ -7,8 +7,8 @@
 import java.util.Scanner;
 
 
-public class ex5 {
-    public static void main(String[] args) {
+public class Ex5 {
+    public static void quantidade (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
