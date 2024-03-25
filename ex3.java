@@ -5,23 +5,15 @@
 import java.util.Scanner;
 
 
-public class ex3 {
-    public static void main(String[] args) {
+public class Ex3 {
+    public static void apresente (String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-
-
 
         System.out.print("Digite o tamanho do vetor: ");
         int tamanho = scanner.nextInt();
 
-
-
-
         int[] vetor1 = new int[tamanho];
 
-
- 
         System.out.println("Digite os números para o primeiro vetor:");
         for (int i = 0; i < tamanho; i++) {
             System.out.print("Posição " + i + ": ");
