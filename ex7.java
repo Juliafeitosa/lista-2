@@ -5,8 +5,8 @@
 import java.util.Scanner;
 
 
-public class ex7 {
-    public static void main(String[] args) {
+public class Ex7 {
+    public static void elementos (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
