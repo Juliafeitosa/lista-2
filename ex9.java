@@ -6,11 +6,9 @@
 import java.util.Scanner;
 
 
-public class ex9 {
-    public static void main(String[] args) {
+public class Ex9 {
+    public static void posição(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-
 
 
         int tamanho = 5;
