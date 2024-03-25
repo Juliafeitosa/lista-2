@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex3 {
-    public static void apresente (String[] args) {
+    public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o tamanho do vetor: ");
