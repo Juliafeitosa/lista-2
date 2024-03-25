@@ -5,8 +5,8 @@
 import java.util.Scanner;
 
 
-public class ex10 {
-    public static void main(String[] args) {
+public class Ex10 {
+    public static void for(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
