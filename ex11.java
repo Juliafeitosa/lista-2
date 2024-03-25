@@ -5,12 +5,9 @@
 import java.util.Scanner;
 
 
-public class ex11 {
-    public static void main(String[] args) {
+public class Ex11 {
+    public static void veotres(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-
-
 
         int tamanho = 5;
 
