@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class Ex9 {
-    public static void posição(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
