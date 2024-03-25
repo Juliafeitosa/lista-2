@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex11 {
-    public static void veotres(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int tamanho = 5;
