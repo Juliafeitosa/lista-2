@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class Ex15 {
-    public static void armazenar(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
