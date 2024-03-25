@@ -5,8 +5,8 @@
 import java.util.Arrays;
 
 
-public class ex8 {
-    public static void main(String[] args) {
+public class Ex8 {
+    public static void seguidos (String[] args) {
  
         int[] vetorj = {1, 2, 3, 4, 5};
         int[] vetorf = {6, 7, 8, 9, 10};
