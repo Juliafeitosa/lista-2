@@ -5,29 +5,20 @@
 import java.util.Scanner;
 
 
-public class ex2 {
-    public static void main(String[] args) {
+public class Ex2 {
+    public static void sequencia (String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-
-
 
         System.out.print("Digite o tamanho do vetor: ");
         int tamanho = scanner.nextInt();
 
-
-
-
         int[] vetor = new int[tamanho];
-
 
         System.out.println("Digite os números para o vetor:");
         for (int i = 0; i < tamanho; i++) {
             System.out.print("Posição " + i + ": ");
             vetor[i] = scanner.nextInt();
         }
-
-
 
 
         System.out.println("Número na posição | Positivo/Negativo/Zero");
