@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex4 {
-    public static void vetores (String[] args) {
+    public static void  main (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
