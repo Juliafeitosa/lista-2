@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex2 {
-    public static void sequencia (String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o tamanho do vetor: ");
